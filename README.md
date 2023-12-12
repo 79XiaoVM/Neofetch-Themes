@@ -64,7 +64,7 @@ NOTE: To use the logo you need to change the ascii source in line 743 to where y
 
 NOTE: Same as Bejkon 2 but line 741
 
-[Kremfetch](https://github.com/Chick2D/neofetch-themes/tree/main/normal/remfetch)
+[Remfetch](https://github.com/Chick2D/neofetch-themes/tree/main/normal/remfetch)
 ---
 ![](https://cdn.discordapp.com/attachments/883138437413220412/1002653085925122088/screenshot.png)
 
@@ -111,6 +111,10 @@ Note: you are required to manually change the distro ascii in the config
 ---
 ![](https://cdn.discordapp.com/attachments/883138437413220412/930479412208615534/unknown.png)
 
+[AxylFetch EndeavourOS](https://github.com/chick2d/neofetch-themes/blob/main/small/axylfetchEOS)
+---
+![](https://cdn.discordapp.com/attachments/945032803035250758/1160669332385304727/image.png?ex=6535808d&is=65230b8d&hm=4a0aa5fe912dc4bd0d17b66f5c8df6ed035b878007826ba976fc3a1f334179f9&)
+
 [af++](https://github.com/chick2d/neofetch-themes/blob/main/small/af++)
 ---
 ![](https://user-images.githubusercontent.com/86041547/183238998-bebcc068-01b1-4650-8777-d68cd37d960d.png)
@@ -132,6 +136,10 @@ Fun fact: This is called af++ or AxylFetch++ because this was actually based on 
 [PenguinFetch](https://github.com/Chick2D/neofetch-themes/blob/main/small/penguinfetch.conf)
 ---
 ![](https://github.com/TanbinIslam43/mydotfiles/blob/main/.config/neofetch/screenshot.png)
+
+[MinecraftFetch](https://github.com/ignxcy/neofetch-themes/blob/main/small/minecraftfetch/config.conf)
+---
+![](https://i.imgur.com/iA3Bors.png)
 
 ### [FAQs](https://github.com/Chick2D/neofetch-themes/wiki/FAQs)
 
@@ -166,12 +174,12 @@ in your preferred folder.
 
 3. Run 
 ```bash
-mv neofetch-themes/<folder>/<file> ~/.config/neofetch/config.conf
+cat neofetch-themes/<folder>/<file> > ~/.config/neofetch/config.conf
 ```
 where `<folder>` is the section in this readme, while `<file>` is the file name of the config of this theme.
 > For example: If you want papirus, it'd be
 ```
-mv neofetch-themes/normal/papirus.conf ~/.config/neofetch/config.conf
+cat neofetch-themes/normal/papirus.conf > ~/.config/neofetch/config.conf
 ```
 
 </details>
@@ -185,8 +193,6 @@ WM: bspwm \
 Terminal: alacritty \
 Neofetch Theme: axylfetch
 
-The latter is more so a suggestion so it brings more awareness to the project easier than a must unlike the former
-
 To add your own theme send a pull request containing your file in the appropriate directory,
 a screenshot in the readme and it's name, you can understand the syntax yourself its very easy
 
@@ -195,6 +201,6 @@ Support
 
 I'd really appreciate any kind of support for me
 
-I'd prefer if I got gifted an Amazon or a Cubelelo giftcard, just message me on [Discord](https://discord.gg/tuWnYReXbS) or [Reddit](https://www.reddit.com/user/Chicki2D/)
+BTC: `bc1qk3ejh9t0lw344z8yn34pur4d4dqne5dpcnmfk7`
 
-BTC: `1HffvknYXCbLsqiWHtUUCVKbkWVLKxdDim`
+Or dm me on [Reddit](https://www.reddit.com/user/Chicki2D/)
